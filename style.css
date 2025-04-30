@@ -5,6 +5,14 @@ body {
     place-items: center;
     background-color: rgb(41, 9, 9);
   }
+@media(max-width:768px ){
+   body{
+       display:flex;
+         align-items: center;
+      justify-content: center;
+   }
+    
+}
   .icon{font-size: 25px;
     color: white;
     display: flex;

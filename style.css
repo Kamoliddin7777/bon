@@ -39,10 +39,7 @@ body {
   gap: 10px;
 }
 x
-.container {
-  width: 100%;
-  max-width: 100vw;
-}
+
 @media (max-width: 768px) {
   /* Стили для экранов с шириной до 768px */
  .container {

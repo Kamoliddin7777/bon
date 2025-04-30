@@ -39,7 +39,7 @@ body {
   gap: 10px;
 }
 
-@media (max-width: 42em) {
+@media (max-width: 46em) {
   .container {
       grid-template-columns: repeat(3, 200px);
       grid-template-rows: repeat(5, 200px);
